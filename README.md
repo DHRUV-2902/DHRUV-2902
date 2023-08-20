@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv more</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align ="right" alt="codinng" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align ="right" alt="codinng" width="400" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47jjw54yhkcmvw4jlcoaq1gw8kdeehf30phe3hff6s&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-2902&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-2902" /> </p>
 
