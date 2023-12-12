@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **MERN ,Java,Msql**
 
+- 📄 learning **Python,Django,ML**
+
 - 📫 How to reach me **mdhruv2902@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/mrvoi/Downloads/Resume1.pdf](file:///C:/Users/mrvoi/Downloads/Resume1.pdf)
