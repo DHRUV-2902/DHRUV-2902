@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-2902&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-2902" /> </p>
 
-- 🌱 I’m currently learning **Redux , spring**
+- 🌱 I’m currently learning **Python, Django , ML , spring**
 
 - 💬 Ask me about **MERN ,Java,Msql**
-
-- 📄 learning **Python,Django,ML**
 
 - 📫 How to reach me **mdhruv2902@gmail.com**
 
